@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": "e594",
+      "email": "igor@teste.com",
+      "name": "Igor",
+      "password": "123@test"
+    },
+    {
+      "id": "c7ca",
+      "email": "igortest@g",
+      "password": "111111",
+      "name": "igor"
+    },
+    {
+      "id": "f5d8",
+      "email": "a",
+      "password": "a",
+      "name": "a"
+    },
+    {
+      "id": "0c5c",
+      "email": "a",
+      "password": "a",
+      "name": "a"
+    },
+    {
+      "id": "745a",
+      "email": "irg@ma",
+      "password": "111",
+      "name": "iguin"
+    },
+    {
+      "id": "85ba",
+      "email": "ia32@",
+      "password": "11",
+      "name": "igor"
+    },
+    {
+      "id": "cdfa",
+      "email": "ia32@",
+      "password": "11",
+      "name": "igor"
+    },
+    {
+      "id": "1f7b",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "dc5a",
+      "email": "aa",
+      "password": "aa",
+      "name": "aa"
+    },
+    {
+      "id": "193c",
+      "email": "admin",
+      "password": "a",
+      "name": "a"
+    },
+    {
+      "id": "9a65",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "0ba8",
+      "email": "a",
+      "password": "a",
+      "name": "a"
+    },
+    {
+      "id": "850f",
+      "email": "a",
+      "password": "a",
+      "name": "a"
+    },
+    {
+      "id": "8a69",
+      "email": "a",
+      "password": "a",
+      "name": "a"
+    },
+    {
+      "id": "741e",
+      "email": "aaa",
+      "password": "aaa",
+      "name": "aAAAa"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "mcdonalds",
+      "address": "rua 4",
+      "contact": "123",
+      "id": "12c8"
+    },
+    {
+      "id": "9dc3",
+      "name": "starbuck",
+      "address": "rua 7",
+      "contact": "123412"
+    }
+  ]
+}
